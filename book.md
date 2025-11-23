@@ -3,3 +3,5 @@
  [Morph AI Lib编程指南.pdf](pdf/Morph AI Lib编程指南.pdf) 
 
  [ScepterSoftware&MorphAI相机编程指南.pdf](pdf/ScepterSoftware&MorphAI相机编程指南.pdf) 
+
+ [Morph_AI_Lib编程指南.pdf](pdf/Morph_AI_Lib编程指南.pdf) 
